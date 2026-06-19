@@ -4,6 +4,12 @@ anaconda/
 *.tar.bz2
 *.pkg
 
+anaconda/
+processedData/
+*.nc
+*.solv
+*.json
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
